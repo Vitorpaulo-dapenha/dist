@@ -23,6 +23,7 @@ Para surpreender e impressionar, o projeto foi atualizado com melhorias focadas 
 - **index.html**: Página principal com a estrutura HTML.
 - **style.css**: Arquivo de estilos responsável pelo design e animações.
 - **script.js**: Lógica para captura de avaliação e manipulação da interface.
+- **readmi.md**: Informações sobre o projeto
 
 ### 🧑‍💻 Autor
 - **Vitor Paulo da Penha** 💼
